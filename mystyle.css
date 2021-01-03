@@ -244,6 +244,50 @@ a:hover {
     background-color: #506073;
   }
 
+  .button4 {
+    background-color: #627495; 
+    color: #ABAEB2; 
+    border: 3px solid #627495;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration-color: #ABAEB2;
+    display: inline-block;
+    font-size: 3vh;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Bitter-Regular';
+    border-radius: 12px;
+  }
+  
+  .button4:hover {
+    color: #EA802E;
+    border-color: #ABAEB2;
+    background-color: #506073;
+  }
+
+  .button5 {
+    background-color: #627495; 
+    color: #ABAEB2; 
+    border: 3px solid #627495;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration-color: #ABAEB2;
+    display: inline-block;
+    font-size: 3vh;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Bitter-Regular';
+    border-radius: 12px;
+  }
+  
+  .button5:hover {
+    color: #EA802E;
+    border-color: #ABAEB2;
+    background-color: #506073;
+  }
+
 #drop_zone {
     border: 5px solid blue;
     width:  200px;
